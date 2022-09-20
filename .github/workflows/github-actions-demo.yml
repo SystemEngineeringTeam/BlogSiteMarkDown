@@ -32,4 +32,4 @@ jobs:
           new_branch: web_public
           message: 'hogehoge'
           add: '* --force' 
-          push: true
+          push: origin web_public --force
