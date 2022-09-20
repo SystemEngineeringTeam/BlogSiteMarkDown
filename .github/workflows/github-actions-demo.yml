@@ -1,32 +1,35 @@
-name: GitHub Pages
+name: Deploy Sakura Server
 
 on:
   push:
     branches:
-      - main
+      - main  # masterブランチが更新された時に発火させる
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    name: deploy
+    runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true
-          fetch-depth: 0
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          extended: true
+          hugo-version: '0.102.3'  # コンパイルに使用するHugoのバージョンを指定
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify  # 実際にHugoでコンパイルする(--minifyはファイルを圧縮するオプション)
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: git commit
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          cname: example.com
+          author_name: harutiro
+          author_email: harutiro2027@outlook.jp
+          new_branch: web_public
+          message: 'hogehoge'
+          add: '*'
+          push: true

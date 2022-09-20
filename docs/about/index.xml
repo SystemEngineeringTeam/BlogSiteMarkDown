@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Abouts on harutiro&#39;s site</title>
-        <link>http://site.harutiro.net/about/</link>
+        <link>https://systemengineeringteam.github.io/BlogSiteMarkDown/about/</link>
         <description>Recent content in Abouts on harutiro&#39;s site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja</language><atom:link href="http://site.harutiro.net/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>ja</language><atom:link href="https://systemengineeringteam.github.io/BlogSiteMarkDown/about/index.xml" rel="self" type="application/rss+xml" /><item>
         <title></title>
-        <link>http://site.harutiro.net/about/about_index/</link>
+        <link>https://systemengineeringteam.github.io/BlogSiteMarkDown/about/about_index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://site.harutiro.net/about/about_index/</guid>
+        <guid>https://systemengineeringteam.github.io/BlogSiteMarkDown/about/about_index/</guid>
         <description></description>
         </item>
         
