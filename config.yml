@@ -1,4 +1,4 @@
-baseURL: http://site.harutiro.net/
+baseURL: https://systemengineeringteam.github.io/BlogSiteMarkDown/
 languageCode: ja
 title: harutiro's site
 publishDir: "docs"
