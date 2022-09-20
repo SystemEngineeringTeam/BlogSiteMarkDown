@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Searches on harutiro&#39;s site</title>
-        <link>https://systemengineeringteam.github.io/BlogSiteMarkDown/search/</link>
+        <link>https://esa.harutiro.net/search/</link>
         <description>Recent content in Searches on harutiro&#39;s site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="https://systemengineeringteam.github.io/BlogSiteMarkDown/search/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="https://esa.harutiro.net/search/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>検索</title>
-        <link>https://systemengineeringteam.github.io/BlogSiteMarkDown/search/search_index/</link>
+        <link>https://esa.harutiro.net/search/search_index/</link>
         <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
         
-        <guid>https://systemengineeringteam.github.io/BlogSiteMarkDown/search/search_index/</guid>
+        <guid>https://esa.harutiro.net/search/search_index/</guid>
         <description>&lt;h1 id=&#34;検索&#34;&gt;検索&lt;/h1&gt;
 </description>
         </item>
