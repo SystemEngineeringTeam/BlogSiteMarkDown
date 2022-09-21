@@ -2,7 +2,7 @@
 title: "自己紹介"
 date: 2022-09-07T01:35:58+09:00
 draft: false
-image: img/my_photo.JPG
+image: img/set_icon_400x400.jpg
 categories:
     - Hugo
 tags: [Hugo, ]

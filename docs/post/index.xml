@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on harutiro&#39;s site</title>
+        <title>Posts on sysken site</title>
         <link>https://esa.harutiro.net/post/</link>
-        <description>Recent content in Posts on harutiro&#39;s site</description>
+        <description>Recent content in Posts on sysken site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
         <lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="https://esa.harutiro.net/post/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -21,7 +21,7 @@
         <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
         
         <guid>https://esa.harutiro.net/post/hacku2022/</guid>
-        <description>&lt;img src="https://esa.harutiro.net/img/my_photo.JPG" alt="Featured image of post 自己紹介" /&gt;&lt;h1 id=&#34;helloworld&#34;&gt;HelloWorld&lt;/h1&gt;
+        <description>&lt;img src="https://esa.harutiro.net/img/set_icon_400x400.jpg" alt="Featured image of post 自己紹介" /&gt;&lt;h1 id=&#34;helloworld&#34;&gt;HelloWorld&lt;/h1&gt;
 &lt;h2 id=&#34;i-am-apple&#34;&gt;i am apple&lt;/h2&gt;
 &lt;p&gt;今回は私を紹介したいと思います&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c:hello.c&#34; data-lang=&#34;c:hello.c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;include &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;stdio.h&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;
@@ -30,6 +30,80 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;HelloWorld&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Discord ロール周りを考えるの会</title>
+        <link>https://esa.harutiro.net/post/56.html/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://esa.harutiro.net/post/56.html/</guid>
+        <description>&lt;h1 id=&#34;discord-ロール周りを考えるの会&#34;&gt;Discord ロール周りを考えるの会&lt;/h1&gt;
+&lt;h6 id=&#34;tags-discord-ロール&#34;&gt;tags: &lt;code&gt;Discord&lt;/code&gt; &lt;code&gt;ロール&lt;/code&gt;&lt;/h6&gt;
+&lt;p&gt;:::info&lt;/p&gt;
+&lt;p&gt;インストールをやってみよう&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;h2 id=&#34;付与閲覧用ロール&#34;&gt;付与閲覧用ロール&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;インフラストラクチャ&lt;/li&gt;
+&lt;li&gt;インフラリーダー&lt;/li&gt;
+&lt;li&gt;クリエイティブ&lt;/li&gt;
+&lt;li&gt;クリエイティブリーダー&lt;/li&gt;
+&lt;li&gt;Gameｒ&lt;/li&gt;
+&lt;li&gt;ServerBooster　（ねた）&lt;/li&gt;
+&lt;li&gt;工科展　２０２２　（年ごとに作成）&lt;/li&gt;
+&lt;li&gt;工科展　OB&lt;/li&gt;
+&lt;li&gt;ハッカソン　（イベントごとに作成）&lt;/li&gt;
+&lt;li&gt;歴代会長&lt;/li&gt;
+&lt;li&gt;役員&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;流れ用ロール&#34;&gt;流れ用ロール&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;侵入者
+&lt;ul&gt;
+&lt;li&gt;一切話せない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;見学者
+&lt;ul&gt;
+&lt;li&gt;見学者用掲示板だけしか話せない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;会員
+&lt;ul&gt;
+&lt;li&gt;お金をもらいフォームを入力したら入れる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;付与権限ロール&#34;&gt;付与権限ロール&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;オーナー&lt;/li&gt;
+&lt;li&gt;Discord管理者&lt;/li&gt;
+&lt;li&gt;会長&lt;/li&gt;
+&lt;li&gt;副会長&lt;/li&gt;
+&lt;li&gt;会計
+9.　 Discordサブ管理者&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Gitこんにちは</title>
+        <link>https://esa.harutiro.net/post/55.html/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://esa.harutiro.net/post/55.html/</guid>
+        <description>&lt;h1 id=&#34;hello&#34;&gt;hello&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>がんばるぞい</title>
+        <link>https://esa.harutiro.net/post/57.html/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://esa.harutiro.net/post/57.html/</guid>
+        <description>&lt;h1 id=&#34;記事更新頑張ります&#34;&gt;記事更新頑張ります&lt;/h1&gt;
+&lt;p&gt;hogehogehogehogehoge&lt;/p&gt;
+&lt;h2 id=&#34;ほげほげ&#34;&gt;ほげほげ&lt;/h2&gt;
+</description>
         </item>
         <item>
         <title>こんな感じで書いてみましょう</title>
