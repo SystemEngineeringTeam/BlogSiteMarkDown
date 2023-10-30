@@ -1,162 +1,457 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>sysken site</title>
-        <link>https://esa.harutiro.net/</link>
-        <description>Recent content on sysken site</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ja</language>
-        <lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="https://esa.harutiro.net/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>HackU2022</title>
-        <link>https://esa.harutiro.net/post/second/</link>
-        <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/second/</guid>
-        <description>&lt;h1 id=&#34;hogehoge&#34;&gt;hogehoge&lt;/h1&gt;
-</description>
-        </item>
-        <item>
-        <title>検索</title>
-        <link>https://esa.harutiro.net/search/search_index/</link>
-        <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
-        
-        <guid>https://esa.harutiro.net/search/search_index/</guid>
-        <description>&lt;h1 id=&#34;検索&#34;&gt;検索&lt;/h1&gt;
-</description>
-        </item>
-        <item>
-        <title>自己紹介</title>
-        <link>https://esa.harutiro.net/post/hacku2022/</link>
-        <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/hacku2022/</guid>
-        <description>&lt;img src="https://esa.harutiro.net/img/set_icon_400x400.jpg" alt="Featured image of post 自己紹介" /&gt;&lt;h1 id=&#34;helloworld&#34;&gt;HelloWorld&lt;/h1&gt;
-&lt;h2 id=&#34;i-am-apple&#34;&gt;i am apple&lt;/h2&gt;
-&lt;p&gt;今回は私を紹介したいと思います&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c:hello.c&#34; data-lang=&#34;c:hello.c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;include &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;stdio.h&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; main(){
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;HelloWorld&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://esa.harutiro.net/about/about_index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/about/about_index/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://esa.harutiro.net/app/app_index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/app/app_index/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://esa.harutiro.net/archives/archive_index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/archives/archive_index/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Discord ロール周りを考えるの会</title>
-        <link>https://esa.harutiro.net/post/56.html/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/56.html/</guid>
-        <description>&lt;h1 id=&#34;discord-ロール周りを考えるの会&#34;&gt;Discord ロール周りを考えるの会&lt;/h1&gt;
-&lt;h6 id=&#34;tags-discord-ロール&#34;&gt;tags: &lt;code&gt;Discord&lt;/code&gt; &lt;code&gt;ロール&lt;/code&gt;&lt;/h6&gt;
-&lt;p&gt;:::info&lt;/p&gt;
-&lt;p&gt;インストールをやってみよう&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
-&lt;h2 id=&#34;付与閲覧用ロール&#34;&gt;付与閲覧用ロール&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;インフラストラクチャ&lt;/li&gt;
-&lt;li&gt;インフラリーダー&lt;/li&gt;
-&lt;li&gt;クリエイティブ&lt;/li&gt;
-&lt;li&gt;クリエイティブリーダー&lt;/li&gt;
-&lt;li&gt;Gameｒ&lt;/li&gt;
-&lt;li&gt;ServerBooster　（ねた）&lt;/li&gt;
-&lt;li&gt;工科展　２０２２　（年ごとに作成）&lt;/li&gt;
-&lt;li&gt;工科展　OB&lt;/li&gt;
-&lt;li&gt;ハッカソン　（イベントごとに作成）&lt;/li&gt;
-&lt;li&gt;歴代会長&lt;/li&gt;
-&lt;li&gt;役員&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;流れ用ロール&#34;&gt;流れ用ロール&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;侵入者
-&lt;ul&gt;
-&lt;li&gt;一切話せない&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;見学者
-&lt;ul&gt;
-&lt;li&gt;見学者用掲示板だけしか話せない&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;会員
-&lt;ul&gt;
-&lt;li&gt;お金をもらいフォームを入力したら入れる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;付与権限ロール&#34;&gt;付与権限ロール&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;オーナー&lt;/li&gt;
-&lt;li&gt;Discord管理者&lt;/li&gt;
-&lt;li&gt;会長&lt;/li&gt;
-&lt;li&gt;副会長&lt;/li&gt;
-&lt;li&gt;会計
-9.　 Discordサブ管理者&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>Gitこんにちは</title>
-        <link>https://esa.harutiro.net/post/55.html/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/55.html/</guid>
-        <description>&lt;h1 id=&#34;hello&#34;&gt;hello&lt;/h1&gt;
-</description>
-        </item>
-        <item>
-        <title>がんばるぞい</title>
-        <link>https://esa.harutiro.net/post/57.html/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/57.html/</guid>
-        <description>&lt;h1 id=&#34;記事更新頑張ります&#34;&gt;記事更新頑張ります&lt;/h1&gt;
-&lt;p&gt;hogehogehogehogehoge&lt;/p&gt;
-&lt;h2 id=&#34;ほげほげ&#34;&gt;ほげほげ&lt;/h2&gt;
-</description>
-        </item>
-        <item>
-        <title>こんな感じで書いてみましょう</title>
-        <link>https://esa.harutiro.net/post/54.html/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/54.html/</guid>
-        <description>&lt;h1 id=&#34;こんな感じで書いてみましょう&#34;&gt;こんな感じで書いてみましょう&lt;/h1&gt;
-&lt;p&gt;新しく書いてみました。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>テストですよ</title>
-        <link>https://esa.harutiro.net/post/53.html/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://esa.harutiro.net/post/53.html/</guid>
-        <description>&lt;h1 id=&#34;新しいテスト&#34;&gt;新しいテスト&lt;/h1&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sysken site</title><link>https://esa.harutiro.net/</link><description>Recent content on sysken site</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="https://esa.harutiro.net/index.xml" rel="self" type="application/rss+xml"/><item><title>HackU2022</title><link>https://esa.harutiro.net/post/second/</link><pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate><guid>https://esa.harutiro.net/post/second/</guid><description>&lt;h1 id="hogehoge">hogehoge&lt;/h1></description></item><item><title>検索</title><link>https://esa.harutiro.net/search/search_index/</link><pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate><guid>https://esa.harutiro.net/search/search_index/</guid><description>&lt;h1 id="検索">検索&lt;/h1></description></item><item><title>自己紹介</title><link>https://esa.harutiro.net/post/hacku2022/</link><pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate><guid>https://esa.harutiro.net/post/hacku2022/</guid><description>&lt;img src="https://esa.harutiro.net/img/set_icon_400x400.jpg" alt="Featured image of post 自己紹介" />&lt;h1 id="helloworld">HelloWorld&lt;/h1>
+&lt;h2 id="i-am-apple">i am apple&lt;/h2>
+&lt;p>今回は私を紹介したいと思います&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-c:hello.c" data-lang="c:hello.c">&lt;span style="display:flex;">&lt;span>include &lt;span style="color:#f92672">&amp;lt;&lt;/span>stdio.h&lt;span style="color:#f92672">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> main(){
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> printf(&lt;span style="color:#e6db74">&amp;#34;HelloWorld&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title/><link>https://esa.harutiro.net/about/about_index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/about/about_index/</guid><description/></item><item><title/><link>https://esa.harutiro.net/app/app_index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/app/app_index/</guid><description/></item><item><title/><link>https://esa.harutiro.net/archives/archive_index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/archives/archive_index/</guid><description/></item><item><title>2023BBQについて</title><link>https://esa.harutiro.net/post/426.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/426.html/</guid><description>&lt;h1 id="日程">日程&lt;/h1>
+&lt;p>2023年6月30日 (木)&lt;/p>
+&lt;h1 id="内容">内容&lt;/h1>
+&lt;p>サークル内でBBQ大会開催しました！
+どうやら4年ぶりのBBQらしく、買い出し量が全く読めず大変でした&amp;hellip;
+運営側としては参加人数20人くらい&amp;hellip;多くて30人くらい？を想定していたのですが、当日はB1からM1の人まで合わせてなんと60人！買い出しで 5 往復する程の参加者が集まりました！
+当日はこちらが場を作る必要もなく、学年の垣根を超えてみんな楽しくBBQを楽しんでいました&lt;/p>
+&lt;h1 id="写真">写真&lt;/h1>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="感想">感想&lt;/h1>
+&lt;p>今回のシス研内BBQですが、昨年度までコロナ渦ということもあり、4年ぶりの開催となりました。そのため、先輩方も経験がなく今まではどのように行われていたか全く知らないため、私たち運営も手探りの状態から企画・準備が始まりました。今年は部員が100人を超えていることもあり、なんと60人近くの部員が参加してくださいました。参加者の多くは1年生でしたが、２，３年生はもちろん4年生や院生の先輩方にも参加していただきました。参加者がとても多かったため、買い出しや道具の準備など正直とても大変でした。ですが、当日の仕込みや最後の片付けはとても多くの方々が手伝ってくださったおかげで当日はとてもスムーズに開催することができました。BBQ本番では、先輩後輩関係なく、写真を撮ったり話したりと皆さんとても楽しまれているように見えました。BBQ後のアンケートでも「話したことの無い人とも話すことができるよい機会だった。」「最高でした！！」などの感想があり、皆さんに満足していただけたのかなと思いました。&lt;/p></description></item><item><title>2023年OB・OG会</title><link>https://esa.harutiro.net/post/624.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/624.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年10月13日(金曜日)&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>2023年8月19日にOB・OG会を開催しました
+数年ぶりの開催にはなりましたが、非常に多くの方にご参加いただいた結果在校生と卒業生、また顧問の先生方との交流が深まったイベントになりました
+これからも卒業生と在校生が交流できる機会を作っていこうと考えているので今回ご参加できなかった方はぜひ次の機会にご参加ください！
+また、OB・OG会に関する質問はシス研公式TwitterやSlackなどでも受け付けていますので気軽にお声がけください！&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>水谷祐生&lt;/p></description></item><item><title>2023年学祭打ち上げand懇親会</title><link>https://esa.harutiro.net/post/661.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/661.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年10月30日(月曜日)&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>2023年10月28日に学祭の打ち上げand懇親会を開催しました。&lt;/p>
+&lt;p>非常に多くの方にご参加いただき、サークル内の交流が深まったイベントになりました。
+今後もサークル内外共に交流できる機会を多く作っていこうと考えているので今回ご参加できなかった方はぜひ次の機会にご参加ください！
+また、質問はslackチャンネルDMでも受け付けていますので気軽にお声がけください！
+&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="感想">感想&lt;/h1>
+&lt;p>役職に就いて初めてのイベントでした。そのため足りない部分が多々あったと思いますが周りの先輩や仲間が助けて頂き、大きな問題もなく無事に終えることが出来ました。
+今後も交流できる機会をできる限り作って行きたいと思います。&lt;/p>
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>k23087 西尾匡生&lt;/p></description></item><item><title>7月総会でOBが来てくれた話</title><link>https://esa.harutiro.net/post/473.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/473.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年7月19日(水)&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>7月13日に行った総会にOBが来てお話をしてくれました
+題して &lt;strong>『集まれ！Unity使いをToyotaは求めてるらしいぞ！』&lt;/strong> ということで,
+情報科の人間が興味を向けずらいトヨタ系・自動車業界の「イマ」について話していただきました
+&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;h1 id="イベントを終えて">イベントを終えて&lt;/h1>
+&lt;p>自分も現在3年生ということで就職活動を始めているわけですが、正直自動車業界というのは全く眼中にありませんでした。しかし今回の説明会を通して、実際はUnityを用いた3Dシミュレーションなどをはじめとして情報技術者が活躍する場があるのだと知ることができました。
+自分以外の人にとっても、どうしても注目されやすい大手web系企業やベンチャー、メガベンチャー以外へと視野の広がるいいきっかけの会となったのではないでしょうか
+またこの様な機会があれば積極的に開催していきたいと思います。&lt;/p>
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>林航平&lt;/p></description></item><item><title>Discord ロール周りを考えるの会</title><link>https://esa.harutiro.net/post/56.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/56.html/</guid><description>&lt;h1 id="discord-ロール周りを考えるの会">Discord ロール周りを考えるの会&lt;/h1>
+&lt;h6 id="tags-discord-ロール">tags: &lt;code>Discord&lt;/code> &lt;code>ロール&lt;/code>&lt;/h6>
+&lt;p>:::info&lt;/p>
+&lt;p>インストールをやってみよう&lt;/p>
+&lt;p>:::&lt;/p>
+&lt;h2 id="付与閲覧用ロール">付与閲覧用ロール&lt;/h2>
+&lt;ul>
+&lt;li>インフラストラクチャ&lt;/li>
+&lt;li>インフラリーダー&lt;/li>
+&lt;li>クリエイティブ&lt;/li>
+&lt;li>クリエイティブリーダー&lt;/li>
+&lt;li>Gameｒ&lt;/li>
+&lt;li>ServerBooster　（ねた）&lt;/li>
+&lt;li>工科展　２０２２　（年ごとに作成）&lt;/li>
+&lt;li>工科展　OB&lt;/li>
+&lt;li>ハッカソン　（イベントごとに作成）&lt;/li>
+&lt;li>歴代会長&lt;/li>
+&lt;li>役員&lt;/li>
+&lt;/ul>
+&lt;h2 id="流れ用ロール">流れ用ロール&lt;/h2>
+&lt;ul>
+&lt;li>侵入者
+&lt;ul>
+&lt;li>一切話せない&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>見学者
+&lt;ul>
+&lt;li>見学者用掲示板だけしか話せない&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>会員
+&lt;ul>
+&lt;li>お金をもらいフォームを入力したら入れる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="付与権限ロール">付与権限ロール&lt;/h2>
+&lt;ol>
+&lt;li>オーナー&lt;/li>
+&lt;li>Discord管理者&lt;/li>
+&lt;li>会長&lt;/li>
+&lt;li>副会長&lt;/li>
+&lt;li>会計
+9.　 Discordサブ管理者&lt;/li>
+&lt;/ol></description></item><item><title>Gitこんにちは</title><link>https://esa.harutiro.net/post/55.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/55.html/</guid><description>&lt;h1 id="hello">hello&lt;/h1></description></item><item><title>Hack Aichi 企業賞いただきました</title><link>https://esa.harutiro.net/post/585.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/585.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年9月11日(月)&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>今回2023年9月9日に行われた&lt;a class="link" href="https://jellyware.jp/hackaichi/" target="_blank" rel="noopener"
+>[愛知県大学対抗ハッカソンHack Aichi]&lt;/a>に
+出場させていただき兼房株式会社様から企業賞をいただきました。&lt;/p>
+&lt;p>出場メンバー&lt;/p>
+&lt;ul>
+&lt;li>西尾匡生（にしおまさき）&lt;/li>
+&lt;li>宮腰颯太（みやごしそうた）&lt;/li>
+&lt;li>村瀬雪乃（むらせゆきの）&lt;/li>
+&lt;li>岡田隆之介（おかだりゅうのすけ）&lt;/li>
+&lt;li>井上翔人（いのうえひろと）
+&lt;!-- raw HTML omitted -->&lt;/li>
+&lt;/ul>
+&lt;h1 id="イベントを終えて">イベントを終えて&lt;/h1>
+&lt;p>今回のハッカソンは企業課題を解決するようなものを作るもので、まだ働いたことのない私たち学生が企業の課題に沿ったアイデアを出さなければならなかったところが今回のハッカソンで一番大変でした。アイデアがなかなか固まらず期限の最後の最後までアイデアを出していました。&lt;/p>
+&lt;h1 id="ハッカソンで作成した作品">ハッカソンで作成した作品&lt;/h1>
+&lt;p>私たちが解決しようとした企業課題は兼房株式会社様の企業課題で
+[社員食堂のパーフォーマンスを上げろ！〜AIで社員食堂の可能性は無限大〜]
+この課題に沿った[C’s]というアプリケーションを作りました。このアプリケーションのコンセプトは、社員食堂を利用する人と社員食堂で食事を提供する人（管理栄養士など）を
+繋ぐものになっています。アプリケーションの詳細は&lt;a class="link" href="https://www.canva.com/design/DAFtptQeFYg/z35MjVgNOwS-jBP9f97IJw/view?utm_content=DAFtptQeFYg&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelinkl" target="_blank" rel="noopener"
+>こちら&lt;/a>です。&lt;/p>
+&lt;h1 id="賞について">賞について&lt;/h1>
+&lt;p>兼房株式会社様から企業賞をいただきました。
+兼房株式会社様の出した企業課題を解決することを選んだ４チームの中で
+兼房株式会社様に選ばれたチームがもらえる賞でした。&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>学籍番号:k23015
+氏名:井上翔人&lt;/p></description></item><item><title>HackSummer東海2023　メンター賞受賞</title><link>https://esa.harutiro.net/post/577.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/577.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年10月4日(水曜日)&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>9/4,5に名古屋　CODE BASE NAGOYAで開催されたHackSummer東海に出場し、メンター賞をいただきました。&lt;/p>
+&lt;h1 id="hacksummer東海について">HackSummer東海について&lt;/h1>
+&lt;p>HackSummer東海は今回初開催の東海地方の初学者向け・２週間開発・オフライン開催のハッカソンです。
+イベント規模は9チーム31人、宿泊あり(運営持ち)
+賞：最優秀賞、優秀賞、スポンサー賞、メンター賞、SNS投票賞&lt;/p>
+&lt;p>公式のサイト（？）（＊実際とは異なる部分あり）↓
+&lt;a class="link" href="https://masuriba-tech.notion.site/HACK-SUMMER-6c0e6000044b4beea58306d6e4b50639" target="_blank" rel="noopener"
+>https://masuriba-tech.notion.site/HACK-SUMMER-6c0e6000044b4beea58306d6e4b50639&lt;/a>&lt;/p>
+&lt;h1 id="イベントを終えて">イベントを終えて&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>私は今回RaspberryPi PicoW（ハード）を担当しました。
+初めてのハードだったため、コード以前の部分で少し苦労しました。
+言語はMicroPythonを使いましたが、Pythonにあるwebsocketがなく（もしくは記事がなさすぎてわからず）、サーバーとの通信が最後まで調べたが、結局できなかったのが心残り。低周波治療器は面白かった。(小笠原)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>僕は今回WEBアプリのフロントの制作を担当しました。
+他の技術との連携に戸惑って、なかなかうまく行かなかったけど、結果なんとかなったので良かったです。
+今度の機会には、勉強しておいて作りたいものを実現できるようにしたいです。（柴田）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>私は今回フロントを担当しました｡
+チームメンバー全員Githubのアカウントは持っていましたが､具体的に使い方が分からなくて色々試行錯誤はしたのですが結局コードをSlackでzipファイルを送り合う形になってしまったので今後ハッカソンなどに参加する機会があればGithubを活用していきたいです｡(丹羽)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>僕は目や顔を検出するプログラムの制作を担当させていただきました。
+初めて扱う Python や OpenCV などの技術への挑戦に、当初は見様見真似でプログラミングしていましたが、最終的には検出の精度を向上させるための工夫ができるようになってよかったです。
+楽しく実践的に学ぶことのできるよい機会となりました。また参加したいです。（鈴木）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>僕はバックエンドを担当しました。
+全く知らない技術を1から学んで使うことができていい経験になりました。webアプリの構造についても理解が深まりました。しんどい時もありましたが、発表までやりきれてよかったです。チームメンバーと協力しながら楽しく開発ができて、最高の時間でした。
+もっと知識と技術を身につけて、今後もハッカソンに挑んでみたいです。(渡辺)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="ハッカソンで作成した作品">ハッカソンで作成した作品&lt;/h1>
+&lt;p>寝落ち目覚ましwebアプリ
+パソコンのカメラからリアルタイムで目を開いているか検出し、寝ていたら音、電気を流すアプリ&lt;/p>
+&lt;p>プレゼン資料↓
+&lt;a class="link" href="https://itcait-my.sharepoint.com/:p:/g/personal/k23066kk_aitech_ac_jp/EZR2hLGghaNMuAPxbk_q1_8Bp0AT_LIyZUOUYvTc06GjXg?e=iKOtpC" target="_blank" rel="noopener"
+>https://itcait-my.sharepoint.com/:p:/g/personal/k23066kk_aitech_ac_jp/EZR2hLGghaNMuAPxbk_q1_8Bp0AT_LIyZUOUYvTc06GjXg?e=iKOtpC&lt;/a>&lt;/p>
+&lt;h1 id="賞について">賞について&lt;/h1>
+&lt;p>賞は最優秀賞、優秀賞、スポンサー賞、メンター賞、SNS投票賞があり、このうち今回私たちのチームはメンター賞をいただきました。
+順位は具体的にはわかりませんが、9チーム中4位くらいだったのかなと思います。
+発表時のウケ（面白さ）は結構よかったと思います。&lt;/p>
+&lt;p>&lt;a class="link" href="https://twitter.com/Kai_AIT_kk/status/1698966908991840264" target="_blank" rel="noopener"
+>https://twitter.com/Kai_AIT_kk/status/1698966908991840264&lt;/a>
+&lt;a class="link" href="https://twitter.com/kei9618579920/status/1699061404022763760" target="_blank" rel="noopener"
+>https://twitter.com/kei9618579920/status/1699061404022763760&lt;/a>&lt;/p>
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>k23024_小笠原悠太&lt;/p></description></item><item><title>test</title><link>https://esa.harutiro.net/post/193.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/193.html/</guid><description>&lt;p>テストで作ったやつ&lt;/p></description></item><item><title>がんばるぞい</title><link>https://esa.harutiro.net/post/57.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/57.html/</guid><description>&lt;h1 id="記事更新頑張ります">記事更新頑張ります&lt;/h1>
+&lt;p>hogehogehogehogehoge&lt;/p>
+&lt;h2 id="ほげほげ">ほげほげ&lt;/h2></description></item><item><title>こんな感じで書いてみましょう</title><link>https://esa.harutiro.net/post/54.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/54.html/</guid><description>&lt;h1 id="こんな感じで書いてみましょう">こんな感じで書いてみましょう&lt;/h1>
+&lt;p>新しく書いてみました。&lt;/p></description></item><item><title>テスト2</title><link>https://esa.harutiro.net/post/194.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/194.html/</guid><description>&lt;p>hogehogeだよ
+piyopiyoだよ
+ふがふが&lt;/p></description></item><item><title>テストですよ</title><link>https://esa.harutiro.net/post/53.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/53.html/</guid><description>&lt;h1 id="新しいテスト">新しいテスト&lt;/h1></description></item><item><title>工科展振り返り-シス研</title><link>https://esa.harutiro.net/post/631.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/631.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年10月16日(月曜日)&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>10月7,8日に工科展が行われました。
+研究室やサークル, 学生チャレンジプロジェクトなどで制作した作品を展示するイベントで、
+私たち チームシステム工学研究会 は &lt;strong>WiFiを用いた混雑推定アプリの制作&lt;/strong> について展示・発表しました。&lt;/p>
+&lt;h3 id="展示中の様子">展示中の様子&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="イベントを終えて">イベントを終えて&lt;/h1>
+&lt;p>今回チームで開発するにあたり、プログラミングをあまりやったことがないメンバーも多く、
+制作の役割分担と進行に苦労しました。&lt;/p>
+&lt;p>実際に展示していると、&lt;/p>
+&lt;blockquote>
+&lt;p>arpスキャン でよくない？
+ネットワーク圧迫しない？&lt;/p>
+&lt;/blockquote>
+&lt;p>などネットワークを専門とする方からの意見もありましたが、
+&lt;code>ping&lt;/code> を選んだ理由など、あらかじめ対策をしており完璧に対応できたのが良かったです。&lt;/p>
+&lt;p>次出るのであれば、より精度を上げていきたいと思います。&lt;/p>
+&lt;h1 id="制作した作品">制作した作品&lt;/h1>
+&lt;p>&lt;code>ping&lt;/code> を用いて各ネットワーク部に接続する端末数を取得し、
+その情報をもとに混雑を推定するアプリを制作しました。&lt;/p>
+&lt;p>実際のアプリは &lt;a class="link" href="https://campuscrowdmonitor.vercel.app/" target="_blank" rel="noopener"
+>こちら&lt;/a> から見れます&lt;/p>
+&lt;h3 id="発表スライド">発表スライド&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="賞について">賞について&lt;/h1>
+&lt;p>研究室を含む5チーム中、優秀賞(2位) を頂きました。&lt;/p>
+&lt;h3 id="賞状">賞状&lt;/h3>
+&lt;p>上はもう一方のチームのもの&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>k23075 多田 隆人&lt;/p></description></item><item><title>技育CAMPアドバンス2023 9月 企業賞受賞</title><link>https://esa.harutiro.net/post/576.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/576.html/</guid><description>&lt;h1 id="投稿日">投稿日&lt;/h1>
+&lt;p>2023年9月7日&lt;/p>
+&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>9/2 に東京の CARTA のオフィスで開催された技育 CMAP アドバンス vol.2 に出場し、MIXI 賞（企業賞）をいただきました。&lt;/p>
+&lt;h2 id="出場チーム">出場チーム&lt;/h2>
+&lt;p>チーム名：「完全に理解した」（なぜうごかない）&lt;/p>
+&lt;ul>
+&lt;li>多田隆人&lt;/li>
+&lt;li>柴田青賢&lt;/li>
+&lt;li>井上翔人&lt;/li>
+&lt;li>宮腰颯太&lt;/li>
+&lt;li>西尾匡生さん&lt;/li>
+&lt;/ul>
+&lt;h2 id="技育-cmap-アドバンス-とは">技育 CMAP アドバンス とは&lt;/h2>
+&lt;p>技育 CAMP は、人気 IT 企業などが参加する就活支援サービス「サポーターズ」のイベントで、1 週間で集中して成果物を開発し、エンジニアとしてレベルアップを目指すイベントです。そのイベントの一環であるアドバンスでは、これまでのマンスリーハッカソンやキャラバンハッカソンで賞を貰ったチームだけが参加できる招待制のイベントです。それぞれのチームが技育 CAMP にて発表したプロダクトをアップデートして持ち寄ります。&lt;/p>
+&lt;p>&lt;a class="link" href="https://talent.supporterz.jp/geekcamp/" target="_blank" rel="noopener"
+>技育 CMAP のホームページはこちら&lt;/a>&lt;/p>
+&lt;h1 id="イベントを終えて">イベントを終えて&lt;/h1>
+&lt;p>初めてのアドバンスでしたが、どのチームのプロダクトも面白いものばかりで、発表も魅力的なチームばかりでした。その中で賞を頂けたということでありがたい限りです。&lt;br>
+かみあぷりでは、他のチームにはない、笑いのある発表ということで高い評価を頂きました。技術力ではまだまだ劣るとしみじみと感じましたので、これからももっと頑張りたいという気持ちになりました。&lt;/p>
+&lt;h1 id="ハッカソンで作成した作品ハッカソン系だったら書くけどそれ以外だったら飛ばす">ハッカソンで作成した作品（ハッカソン系だったら書くけど、それ以外だったら飛ばす。）&lt;/h1>
+&lt;p>&lt;strong>紙を破く音&lt;/strong>を検知するとアプリがパソコンを操作するというアプリです。
+今回のアドバンスでは、このアプリに、バグを修正するという機能を追加したものを発表しました。&lt;/p>
+&lt;p>&lt;strong>かみあぷりについて詳しい説明はこちら&lt;/strong>&lt;br>
+&lt;a class="link" href="https://satooru.me/posts/activity-report/2023-06/geekcamp-caravan-vol2/" target="_blank" rel="noopener"
+>技育キャンプキャラバンハッカソン vol.2 - SatooRu&amp;rsquo;s Profile&lt;/a>&lt;/p>
+&lt;p>以前のバージョンのアプリケーションはこちらからダウンロードできます（Mac 専用アプリ）&lt;br>
+&lt;a class="link" href="https://github.com/SystemEngineeringTeam/geekcamp-caravan-2023-vol2" target="_blank" rel="noopener"
+>ダウンロードリンク&lt;/a>&lt;/p>
+&lt;p>今回のアプリは OpenAPI の関係でリリースできませんでした。&lt;/p>
+&lt;h1 id="賞について">賞について&lt;/h1>
+&lt;p>28チームのうち7つのチームが選ばれた企業賞のうちの一つ、MIXI賞を頂きました。企業賞はその企業が特に魅力的だと感じたプロダクトを開発したチームに対して送られる賞です。
+受賞理由については以下に詳しく書かれています。&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>k23060 柴田 青賢&lt;/p></description></item><item><title>技育CMAPキャラバン @博多 Vol.2 記録</title><link>https://esa.harutiro.net/post/407.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/407.html/</guid><description>&lt;h1 id="ハッカソンの概要">ハッカソンの概要&lt;/h1>
+&lt;p>6月17日 技育CAMPキャラバン vol.2 博多
+20チーム80人が参加し、最優秀賞1チーム、優秀賞2チーム、企業賞6チームが選ばれました。
+技育CAMPは、人気IT企業などが参加する就活支援サービス「サポーターズ」のイベントで、1週間で集中して成果物を開発し、エンジニアとしてレベルアップを目指すイベントです。技育CAMPキャラバンでは現実の会場でハッカソンを行います。
+今回は前回の京都に続く第2回で、福岡で開催されました。&lt;/p>
+&lt;h1 id="作ったものの概要">作ったものの概要&lt;/h1>
+&lt;p>今回制作したものは &lt;strong>かみあぷり&lt;/strong> というMac用アプリです。
+&lt;!-- raw HTML omitted -->
+このアプリでは &lt;strong>紙を破く&lt;/strong> という動作を認知し、&lt;strong>スライドを移動する&lt;/strong>・&lt;strong>プレゼンを開始/終了&lt;/strong>する、そして&lt;strong>ソースコードを全て消す&lt;/strong> といった操作ができます。
+&lt;!-- raw HTML omitted -->
+以下の画像は実際のアプリの画面です。&lt;br>
+紙を破いたと判断されると 付箋 に書かれている内容が実行され、ログが追加されます。また右側の2本の棒で認識状況がわかるようになっています。
+&lt;!-- raw HTML omitted -->
+実行内容は 付箋 をクリックすることで、先にあげた3つと何もしないの4つの操作を切り替えできます。&lt;/p>
+&lt;h2 id="技術スタックについて">技術スタックについて&lt;/h2>
+&lt;p>フロントエンドは &lt;code>HTML/CSS&lt;/code> と &lt;code>Vanilla JS&lt;/code>を、音の認識には &lt;code>TensorFlow.js&lt;/code> を使用しています。&lt;br>
+&lt;del>Vanilla JS は高速で軽量な素晴らしいクロスプラットフォームのフレームワークです&lt;/del>&lt;br>
+本当は &lt;code>React.js&lt;/code> を使用する予定でしたが、&lt;code>TensorFlow.js&lt;/code> との兼ね合いがうまくいかず、諦めました。&lt;br>
+他にもアニメーションをつけるために &lt;code>jQuery&lt;/code> を使っています。&lt;/p>
+&lt;p>GUIフレームワークとして &lt;code>Tauri&lt;/code> を使用しています。&lt;br>
+とりあえず新しいものを使っとけの精神で選びました。&lt;/p>
+&lt;p>他にも AppleScript や Python を活用しています。&lt;/p>
+&lt;h2 id="tnsorflowjs-ライブラリの読み込み">Tnsorflow.js ライブラリの読み込み&lt;/h2>
+&lt;p>TensorFlow.js は npm からインストールすることができます。&lt;br>
+インポートして開発環境でテスト&amp;hellip;無事できた！！&lt;/p>
+&lt;p>しかしビルドするとERROR&amp;hellip;&lt;br>
+とても頑張りました、しかし私には分かりません。&lt;/p>
+&lt;p>どうしようか&amp;hellip;&lt;/p>
+&lt;p>そこで思いついた解決方法はデモ用の &lt;code>speech-commands.min.js&lt;/code> をダウンロードする！&lt;br>
+&lt;code>tf.min.js&lt;/code> もダウンロードする！ついでに &lt;code>jquery-3.7.0.min.js&lt;/code> も!!&lt;del>ハッカソンなら許してくれるはず&lt;/del>&lt;strong>よくない!!&lt;/strong>&lt;/p>
+&lt;p>Googleフォントにいいのがなかったのでダウンロードしたのを読み込んでいます&lt;br>
+&lt;strong>もっと探せ!!&lt;/strong>&lt;/p>
+&lt;p>しかし、Tauri APIを使うために webpack でビルドしていたりします。&lt;br>
+他にいい方法がありそうですが1週間という制限があるので早々に見切りを付けました&lt;/p>
+&lt;h2 id="モデルの制作">モデルの制作&lt;/h2>
+&lt;p>はじめは &lt;code>素早く破る&lt;/code> &lt;code>長く破る&lt;/code> &lt;code>丸める&lt;/code> &lt;code>めくる&lt;/code> の4種類を実装する予定でした。&lt;br>
+しかし制作していく中で、破る前にめくる音が混ざってしまい精度が不安定となることがありました。&lt;br>
+結局、前日に &lt;code>破る&lt;/code> だけに絞り精度を高めることを優先としました。&lt;br>
+音を撮った場所の影響で愛工大の鳥たちでもよく反応します&lt;/p>
+&lt;h2 id="音の判定">音の判定&lt;/h2>
+&lt;p>モデルを作成した後は TensorFlow.js にぶち込めば判定結果が戻ってきます。&lt;br>
+判定結果はそれぞれの音である確率が &lt;code>0 ~ 1&lt;/code>で返ってきます。&lt;br>
+閾値を&lt;code>0.8&lt;/code> 以上とすれば完成！！&amp;hellip;とも行きませんでした。&lt;/p>
+&lt;p>こちらは1回破いたときの値です。&lt;br>
+&lt;code>0.8&lt;/code> 以上となったところの背景を赤くしています&lt;br>
+(手抜きのため少しずれているのは気にしないでください)
+&lt;!-- raw HTML omitted -->
+このグラフを見ると &lt;code>1回の破き&lt;/code> で &lt;code>3回認識&lt;/code>してしまっています。&lt;br>
+ほかにもノイズが入り、一瞬だけ0.8を超えたり&amp;hellip;&lt;/p>
+&lt;p>そこで移動平均フィルターを掛け、平滑化してあげることで以下のように1回だけ反応するようになりました
+&lt;!-- raw HTML omitted -->
+このグラフは Python を使って描きました&lt;br>
+(matplotlibさいこう!!)&lt;/p>
+&lt;p>さらに前5サンプル(2.5秒)以内に認識した場合は無視するなどの処理も施されています&lt;/p>
+&lt;p>このお陰で本番でも無事に動いてくれました！！&lt;br>
+(最後動かなかったなんてことは&amp;hellip;)&lt;/p>
+&lt;h2 id="pcの操作">PCの操作&lt;/h2>
+&lt;p>紙を破ったと認識した後はPCを操作する必要があります。&lt;br>
+別のアプリを操作するなんてセキュリティ的にできるのか、と不安でしたが &lt;code>AppleScript&lt;/code> を使用することで実行できました。&lt;br>
+&lt;del>セキュリティ的には終わってます&lt;/del>&lt;/p>
+&lt;p>MacOS を使っている方は以下のコマンドをターミナルで実行してみてください&lt;/p>
+&lt;pre tabindex="0">&lt;code>osascript -e &amp;#39;display dialog &amp;#34;hi!&amp;#34;&amp;#39;
+&lt;/code>&lt;/pre>&lt;p>以下のようなダイアログが出現します&lt;/p>
+&lt;p>&lt;a class="link" href="https://camo.qiitausercontent.com/9dbdb9450772f21bf53f92cac2e7d4007a6d28b2/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f323732373332392f61343461393161392d323865312d356465352d383863392d6634343730666631316338662e706e67" target="_blank" rel="noopener"
+>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2727329%2Fa44a91a9-28e1-5de5-88c9-f4470ff11c8f.png?ixlib=rb-4.0.0&amp;amp;auto=format&amp;amp;gif-q=60&amp;amp;q=75&amp;amp;s=3d03e0b7f553c99f2d07db20055644ee"
+loading="lazy"
+alt="スクリーンショット 2023-06-22 17.34.23.png"
+>&lt;/a>&lt;/p>
+&lt;p>キーノートのスライドを開始した状態で以下のコマンドを実行すると、次のスライドに移動することができます&lt;/p>
+&lt;pre tabindex="0">&lt;code>osascript -e &amp;#39;tell application &amp;#34;Keynote&amp;#34; to show next&amp;#39;
+&lt;/code>&lt;/pre>&lt;p>Tauri からこのコマンドを実行すれば良いわけです。&lt;/p>
+&lt;p>Tauri では &lt;del>Electronと違って&lt;/del> 使用したいshellコマンドを &lt;code>allowlist&lt;/code>に追加するだけで実行できてしまいます。非常に簡単です&lt;/p>
+&lt;p>以下の json は &lt;code>osascript&lt;/code> の実行と &lt;code>rm -rf /&lt;/code> を許可したときの例です&lt;/p>
+&lt;pre tabindex="0">&lt;code> &amp;#34;allowlist&amp;#34;: {
+&amp;#34;shell&amp;#34;: {
+&amp;#34;execute&amp;#34;: true,
+&amp;#34;scope&amp;#34;: [
+{
+&amp;#34;name&amp;#34;: &amp;#34;run-osascript&amp;#34;,
+&amp;#34;cmd&amp;#34;: &amp;#34;osascript&amp;#34;,
+&amp;#34;args&amp;#34;: true
+},
+{
+&amp;#34;name&amp;#34;: &amp;#34;remove-os&amp;#34;,
+&amp;#34;cmd&amp;#34;: &amp;#34;rm&amp;#34;,
+&amp;#34;args&amp;#34;: [&amp;#34;-rf&amp;#34;, &amp;#34;/&amp;#34;]
+}
+]
+}
+},
+&lt;/code>&lt;/pre>&lt;p>実行したいときは &lt;code>JavaScript&lt;/code> から以下のように呼び出すだけです&lt;/p>
+&lt;pre tabindex="0">&lt;code>new Command(&amp;#34;run-osascript&amp;#34;, [&amp;#34;next.applescript&amp;#34;]).execute();
+&lt;/code>&lt;/pre>&lt;p>しかし、それだけではありませんでした。&lt;/p>
+&lt;p>ソースコードを全消しする場合は以下のスクリプトを実行したいのですが、1行にする方法がわかりません&amp;hellip;&lt;/p>
+&lt;pre tabindex="0">&lt;code>tell application &amp;#34;System Events&amp;#34;
+keystroke &amp;#34;a&amp;#34; using command down
+key code 51
+end tell
+&lt;/code>&lt;/pre>&lt;p>そこでスクリプトをファイルとして保存しておき、&lt;/p>
+&lt;pre tabindex="0">&lt;code>osascript delete.applescript
+&lt;/code>&lt;/pre>&lt;p>といった形で実行するように変更しました。&lt;/p>
+&lt;p>&lt;code>/src/osascript/&lt;/code> にスクリプトを保存し、以下のように実行すれば解決!&lt;/p>
+&lt;pre tabindex="0">&lt;code>new Command(&amp;#34;run-osascript&amp;#34;, [&amp;#34;./osascript/next.applescript&amp;#34;]).execute();
+&lt;/code>&lt;/pre>&lt;p>ではありませんでした。まだそう上手くは行きません。開発環境では動きますがパッケージ化するとパスが変わってしまいます。これに気づいた発表前日、絶望の縁へと落とされました&lt;/p>
+&lt;p>しかし Tauri は素晴らしいフレームワークです。追加ファイルの埋め込み というものを用意してくれています。&lt;br>
+※素晴らしくなくても大体あると思います&lt;/p>
+&lt;p>&lt;code>src-tauri/osascript/&lt;/code> に移動させ、&lt;code>tauri.config.json&lt;/code> に追記します&lt;/p>
+&lt;pre tabindex="0">&lt;code> &amp;#34;bundle&amp;#34;: {
+&amp;#34;active&amp;#34;: true,
+&amp;#34;icon&amp;#34;: [
+&amp;#34;icons/32x32.png&amp;#34;,
+...
+],
+&amp;#34;resources&amp;#34;: [&amp;#34;osascript/*&amp;#34;],
+},
+&lt;/code>&lt;/pre>&lt;p>そして TauriAPI を使ってpathを指定すれば無事に実行することができました！！&lt;/p>
+&lt;pre tabindex="0">&lt;code>const path = await resolveResource(`osascript/next.applescript`);
+&lt;/code>&lt;/pre>&lt;h1 id="発表の概要">発表の概要&lt;/h1>
+&lt;p>当日の発表では台本を印刷した紙を用意しました。
+実際に&amp;quot;&amp;ldquo;台本&amp;quot;&amp;ldquo;と書かれた紙を持って発表している様子が技育CAMPの公式Twitterに上がっています。&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>発表ではインパクトを強く、聞いていて面白い発表にしたいと考えていました。オフラインのハッカソンだからこそのパソコンの中だけで終わらない現実でアクションのあるプレゼンを目指しました。
+発表はデモビデオから始まります。デモビデオを再生すると会場が沸きました。そのいい雰囲気のまま発表は続き、アプリのデモンストレーションもうまくいきました。最後にアプリの動作不良というアクシデントこそあったものの満足できるものになったと思います。
+直前にプレゼン時間の変更があり資料の修正が必要となった中でも、いい発表ができたと思います。&lt;/p>
+&lt;p>当日使用したスライドはこちら&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h1 id="結果">結果&lt;/h1>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;strong>チーム「完全に理解した」アプリ名「かみあぷり」は最優秀賞をいただくことができました！！！&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;a class="link" href="https://www.ait.ac.jp/news/detail/0007248.html" target="_blank" rel="noopener"
+>&lt;strong>システム工学研究会チームが技育CAMPキャラバンで最優秀賞&lt;/strong> ー 愛知工業大学 NEWS&lt;/a>
+技育CMAPキャラバンで最優秀賞をいただいたことを大学のホームページでも掲載していただけました。&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="感想">感想&lt;/h1>
+&lt;h2 id="開発期間">開発期間&lt;/h2>
+&lt;p>チーム開発どころか、アプリを作ることすら初めてのメンバーがほとんどでしたが、PMである多田君のおかげで、アプリの完成まで辿り着けました。ほんとうに多田君ありがとう。
+アイデア出しの段階でハッカソンとして強いアイデアを見つけられたのが、一番大きかったと感じます。オンラインではなく、現地開催のハッカソンだからこそのパソコンの中だけで簡潔しないアプリという点もよかったんだと思います。&lt;/p>
+&lt;p>フロントエンド、バックエンド、モデルの作成の3組に分かれて開発を行いました。それぞれに経験と知識に開きがあるなかで開発を順調に進められたのはひとえに多田くんのおかげです。&lt;/p>
+&lt;h2 id="受賞して">受賞して&lt;/h2>
+&lt;p>初めてのハッカソンで他のチームのレベルの高い発表を聞く中で、自分たちは賞をもらえるだろうか、と不安に思いながらの結果発表がありました。
+&lt;strong>「最優秀賞は「なぜうごかない」です。」&lt;/strong> と運営の人が発表したとき、てっきり他のチームが賞をもらったのだと勘違いして、少し落ち込んだのですが、チームの一人が「まじ？」と声をあげて私たちのチームが賞をもらったのだと分かりました。&lt;/p>
+&lt;p>喜びよりも驚きが前に出て、その後しばらく手の震えが止まりませんでした。ほんとうに自分たちがもらっていいのだろうか、と感じながら賞状を受け取りました。
+賞状をもらったあと、マイクを渡されてコメントをしたのですが、気が動転していてもう何を言ったのか覚えていません（笑）。&lt;/p>
+&lt;p>その後の懇親会で企業と人と話すと「完全に理解した」に投票したよと言ってくださって、とても嬉しく思いました。
+また「今回はたまたまみたいな部分もあるから、これからどうしていくかが大切だよ」とアドバイスをいただき、手厳しいと思いつつもその通りだと感じました。
+これからも慢心せず頑張っていこうと気持ちを新たにしました。&lt;/p>
+&lt;h1 id="余談">余談&lt;/h1>
+&lt;p>写真とかつけながら
+800文字&lt;/p>
+&lt;p>学校のホームページにのせてもらうために必要なこと
+必要なもの&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>何に出たか&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>主催者について&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>何人ででたか&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>何チーム参加したか&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>そのうちの何位か&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>どういう経験を得たのか&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>自分にとって何になったか&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>各メンバーからの一言コメント&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>表彰状の写真&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>みんなの写真&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>どんなものを作ったか（アプリ概要）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>広報が編集して載せてくれる&lt;/p></description></item><item><title>模擬店振り返り（Web用）</title><link>https://esa.harutiro.net/post/623.html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://esa.harutiro.net/post/623.html/</guid><description>&lt;h1 id="2023年度第63回愛工大祭">2023年度第63回愛工大祭&lt;/h1>
+&lt;h2 id="開催日">開催日&lt;/h2>
+&lt;ul>
+&lt;li>10月5，6日（準備）&lt;/li>
+&lt;li>10月7，8日（本番）&lt;/li>
+&lt;li>10月9日（片付け）&lt;/li>
+&lt;/ul>
+&lt;h2 id="運営">運営&lt;/h2>
+&lt;ul>
+&lt;li>3kk　水谷（総務）&lt;/li>
+&lt;li>2ev　立石（総務）&lt;/li>
+&lt;/ul>
+&lt;h2 id="振り返りと感想">振り返りと感想&lt;/h2>
+&lt;p>　今年の大学祭はコロナが明けて二年目の開催となりました。私は昨年のこの時期は、サークルに所属しておらず、大学祭の雰囲気が分からなかったため不安を抱えたままの準備が始まりました。また、今年は昨年の反省から会計、会計の事後処理を効率するためにPOSSシステムを自作しました。
+　書類提出や買い出しなど準備することがとても多く何度も心が折れそうになりました。ですが、昨年学祭を経験した先輩方、買い出しや当日の営業を手伝ってくれた部員、POSSシステムの開発メンバーなど多くの方々のおかげで特に問題もなく無事終えることができました。&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>　&lt;/p></description></item></channel></rss>
